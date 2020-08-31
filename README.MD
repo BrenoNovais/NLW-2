@@ -4,7 +4,7 @@
 
 <div align="center">
 
-
+[![GitHub stars](https://img.shields.io/github/stars/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/network)
 
 </div>
 
@@ -19,6 +19,9 @@
 
 ## 🖥 Preview 
 
+<p align="center">
+  <img src="https://ik.imagekit.io/capitao/Proffy/final_1596781937_urgAUoPC-.jpg" width="700" >
+</p>
 
 ---
 
